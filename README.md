@@ -16,7 +16,7 @@ The goal of this project is to:
 Here's an overview of the project files and folders:
 
 ```
-├── data/                  # Input datasets (Customers.csv, Transactions.csv)
+├── data/                  # Input datasets (Customers.csv, Transactions.csv, Products.csv)
 ├── notebooks/             # Jupyter Notebook for analysis and clustering
 ├── visuals/               # Visualizations (plots, PCA clusters, etc.)
 ├── results/               # Output files (clustered data, metrics)
