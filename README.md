@@ -74,21 +74,11 @@ This project is built using Python and the following libraries:
    git clone https://github.com/your-username/customer-segmentation-analysis.git
    ```
 
-2. **Install dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run the Jupyter Notebook**:
+2. **Run the Jupyter Notebook**:
    - Navigate to the `notebooks/` folder and open the `.ipynb` file.
 
-4. **Explore results**:
+3. **Explore results**:
    - Check the `results/` folder for cluster labels and metrics.
-
----
-
-## 🤝 **Contributions**
-Contributions are welcome! Feel free to fork this repository, submit issues, or create pull requests. 💡
 
 ---
 
